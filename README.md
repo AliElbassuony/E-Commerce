@@ -15,3 +15,10 @@ python3 manage.py startapp productshelf
 
 # Register the productshelf app
 Open E_commerce/settings.py and add 'productshelf' to installed apps
+
+# Create Project Models Category and Product
+
+# Installing Django RestFrameWork
+
+# Create API Endpoints
+
